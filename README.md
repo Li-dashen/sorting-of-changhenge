@@ -43,7 +43,7 @@
  
          这是流程图
 	 
-	 ！[image](https://github.com/Li-dashen/sorting-of-changhenge/blob/master/e49c02a3da8e851ebad3340fdb329f0.png)
+	 ![image](https://github.com/Li-dashen/sorting-of-changhenge/blob/master/e49c02a3da8e851ebad3340fdb329f0.png)
     3,   代码解释
    
          这个和以前不一样，代码老师您能自己看到，而我也在前面的思路中详细的介绍了我的整体想法。要不老师您自己对照着看？我在这里就不
@@ -53,14 +53,14 @@
 
     这是结果图
     
-    ！[image](https://github.com/Li-dashen/sorting-of-changhenge/blob/master/1573726218.png)
+     ![image](https://github.com/Li-dashen/sorting-of-changhenge/blob/master/1573726218.png)
     
     
 四、心得
 
-       这次的实验并不算难，但是我还是有点收获的，至少我对排版有了更深的了解。而且我也意识到Java的字符串与python的不同，相比之下，Java
-     的字符串我觉得更加灵活，使用方法也更多样。因此我对Java这门语言的理解更进一步了。这次对我来说难的地方是异常机制中的try-catch，我到
-     现在都没搞明白如何去运用它，只能用if来弥补。但是我相信我以后会学会并去运用它的。
+       这次的实验并不算难，但是我还是有点收获的，至少我对排版有了更深的了解。而且我也意识到Java的字符串与python的不同，
+       相比之下，java 的字符串我觉得更加灵活，使用方法也更多样。因此我对Java这门语言的理解更进一步了。这次对我来说难的
+       地方是异常机制中的try-catch，我到现在都没搞明白如何去运用它，只能用if来弥补。但是我相信我以后会学会并去运用它的。
 	   
 	  
 	 
